@@ -147,6 +147,9 @@ h1, h2, h3, h4, h5, h6 {
 	background-color: #fff;
 }
 
+.lineHeight {
+	line-height: 50px !important;
+}
 
 /*========================
 ========Home CSS==========
@@ -160,6 +163,9 @@ h1, h2, h3, h4, h5, h6 {
 		width: 50%;
 		/*background-color: #337ab7;*/
 		 
+	}
+	.lineHeight {
+		line-height: 25px !important;
 	}
 }
 
@@ -250,7 +256,7 @@ a.navbar-brand {
 }
 
 #navigation .navbar-right {
-	margin-top: 76px;
+	margin-top: 10px;
 	margin-right: 35px;
 }
 
@@ -294,6 +300,8 @@ a.navbar-brand {
 #navigation .navbar-right li.active a  {
 	background-color:#004557;
 }
+
+
 
 .search{
   position: absolute;
