@@ -1590,3 +1590,16 @@ h3.timer {
   margin: 0 auto;
 }
 
+a.hitCounter.badge-done0 {
+	background-color: #004557;
+	background-image: none !important;
+	display: inline-block;
+	background-repeat: no-repeat;
+	color: #07586d !important;
+	text-decoration: none;
+	text-indent: 40px;
+	padding: 0px !important;
+	min-width: 90px;
+	font-size: 10px !important;
+	background-position: 0px 0px !important;
+  }
