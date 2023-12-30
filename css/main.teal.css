@@ -696,7 +696,8 @@ a.navbar-brand {
 /*=== Project-Section ==*/
 
 .skills-section {
-	min-height: 350px;
+	/* min-height: 350px; */
+	min-height: 100px;
 }
 
 .heading {
