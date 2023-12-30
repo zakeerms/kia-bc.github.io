@@ -6,12 +6,12 @@
 1. Typography
 2. Home / Navigation + Main Carousel
 3. Service
-4. parallax promo-One
+4. promo-One
 5. Recent-works
 6. About Us / Project-Section + Team-member
-7. parallax promo-two
+7. promo-two
 8. Blog
-9. parallax promo-three
+9. promo-three
 10. Sponsors
 11. News Letter 
 12. our-causes
@@ -225,9 +225,9 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 a.navbar-brand {
-	background-color: #004557;
+	/* background-color: #004557; */
 	display: block;
-	height: 152px;
+	height: 100%;
 	overflow: hidden;
 	/*padding:12px;*/
 	color: #fff;
