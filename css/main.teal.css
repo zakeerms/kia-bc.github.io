@@ -159,11 +159,11 @@ h6 {
 ==========================*/
 @media (max-width: 767px) {
   .navbar-brand .img-responsive {
-    width: 50%;
+    width: 44%;
   }
   .navbar-brand.change-logo {
     height: 78px;
-    width: 50%;
+    width: 44%;
     /*background-color: #004557;*/
   }
   .lineHeight {
